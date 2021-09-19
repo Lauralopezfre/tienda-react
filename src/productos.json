@@ -1,0 +1,63 @@
+[{
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "price": 5000,
+    "image": "https://mxsonyb2c.vteximg.com.br/arquivos/ids/263350-1000-1000/PS5_Fisica_DS.jpg?v=637358724586630000",
+    "description": "Consola de videojuegos de ultima generación"
+},
+{
+    "name": "Nintendo Wii",
+    "brand": "Nintento",
+    "price": 2000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wii_console.png",
+    "description": "Consola de videojuegos para juegos en movimiento"
+},
+{
+    "name": "Consola de Xbox One",
+    "brand": "Xbox",
+    "price": 7000,
+    "image": "https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/889842443424.jpg",
+    "description": "Consola de videojuegos de ultima generación"
+},
+{
+    "name": "Pantalla Samsung 40 Pulgadas",
+    "brand": "Samsung",
+    "price": 9000,
+    "image": "https://www.sams.com.mx/images/product-images/img_small/000158271s.jpg",
+    "description": "Pantalla de televisión de alñta resolución"
+},
+{
+    "name": "Monitor Samsung 24 Pulgadas",
+    "brand": "Samsung",
+    "price": 3599,
+    "image": "https://solucionesmacro.com/wp-content/uploads/2021/05/lc24f390fhlxzp-6.jpg",
+    "description": "Monitor Samsung Curvo"
+},
+{
+    "name": "Iphone 11 Pro Max",
+    "brand": "Apple",
+    "price": 21500,
+    "image": "https://tienda.movistar.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/i/p/iphone-11-promax-plata-doble.png",
+    "description": "Telefono celular de alta calidad"
+},
+{
+    "name": "Xioami Mi Band 6",
+    "brand": "Xiaomi",
+    "price": 1000,
+    "image": "https://mx.celulares.com/fotos/xiaomi-mi-band-6-91057-g-alt.jpg",
+    "description": "Banda para hacer ejercicio"
+},
+{
+    "name": "Teclado Corsair K60 PRO",
+    "brand": "Corsair",
+    "price": 379,
+    "image": "https://d374d81ev6lve1.cloudfront.net/wp-content/uploads/2021/01/20115920/5211_1.png",
+    "description": "Teclado con luces RGB"
+},
+{
+    "name": "Audifonos Huawei",
+    "brand": "Huawei",
+    "price": 4000,
+    "image": "https://ss632.liverpool.com.mx/xl/1104712513.jpg",
+    "description": "Audifonos inalambricos de la marca Huawei"
+}]
