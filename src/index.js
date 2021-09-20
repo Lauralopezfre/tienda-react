@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import {showProductos} from "./App"
+import { Init } from './inicio';
 
 
-ReactDOM.render(<showProductos />,
+ReactDOM.render(<Init />,
   document.getElementById('root')
 );

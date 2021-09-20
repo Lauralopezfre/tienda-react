@@ -1,0 +1,9 @@
+.shoppingCart{
+    -webkit-box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
+    -moz-box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
+    box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
+    background-color: #fff;
+    margin-right: 25px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+  }
