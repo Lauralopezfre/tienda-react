@@ -4,6 +4,37 @@
     box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
     background-color: #fff;
     margin-right: 25px;
-    margin-top: 65px;
-    margin-bottom: 65px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+  }
+
+  .title{
+    font-size: 10px;
+    text-align: center;
+  }
+  
+  .shopping_footer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    vertical-align: center;
+  }
+  
+  .btnConfirm{
+    height: 25px;
+    width: 125px;
+    font-size: 10px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #173b64;
+    color: #fff;
+    margin: auto 0;
+  }
+
+  .total{
+    text-align: center;
+  }
+
+  .content_img{
+    text-align: center;
   }

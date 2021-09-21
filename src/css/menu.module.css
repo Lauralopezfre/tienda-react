@@ -28,8 +28,6 @@ a {
 }
 
 .items{
-    
-    
     display: flex;
     gap: 20px;
     font-size: 25px;
