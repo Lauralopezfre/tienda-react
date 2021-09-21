@@ -6,6 +6,13 @@
     margin-right: 25px;
     margin-top: 45px;
     margin-bottom: 45px;
+    padding: 15px;
+  }
+
+  @media (max-width: 1010px) {
+    .shoppingCart{
+      margin-left: 25px;
+    }
   }
 
   .title{

@@ -1,6 +1,9 @@
 
 
-.containerInit{
+
+@media (min-width: 1010px) {
+  .containerInit{
     display: grid;
     grid-template-columns: 75% 25%;
   }
+}
