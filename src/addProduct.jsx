@@ -6,7 +6,7 @@ export function AddProduct(){
         <div className={styles.product_item}>
                 
                 <div className={styles.content_img}>
-                    <img className={styles.imgProduct} src={products[0].image} />
+                    <img className={styles.imgProduct} src={products[0].image} alt={products[0].description}/>
                 </div>
                 
                 <div className={styles.product_content}>

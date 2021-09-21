@@ -1,6 +1,6 @@
 import products from "./productos.json";
 import styles from "./css/products.module.css";
-import { AddProduct } from "./addProduct";
+import { View } from "./viewProduct";
 
 export function MostrarProductos() {
     return <div className={styles.containerProducts}>
@@ -23,7 +23,7 @@ export function MostrarProductos() {
 
 function addProductCart(event){
     console.log("Exito boton")
-    return ({
-        AddProduct
-    })
+    return (
+        <View/>
+    )
 }
