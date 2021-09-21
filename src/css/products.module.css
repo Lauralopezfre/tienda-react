@@ -26,16 +26,15 @@
 
 
   .imgProducts{
-    width: 180px;
-    height: 180px;
+    width: 130px;
+    height: 130px;
     border-radius: 10px;
-    background-color: aqua;
   }
 
   .productsGrid{
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(3, 33.33%);
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 30px;
     justify-content: center;
   }
