@@ -1,3 +1,4 @@
+/* Product container styles */
 .products {
     list-style: none;
     font-size: 22px;
@@ -9,28 +10,31 @@
     padding: 18px;
   }
 
- 
+ /* Products container */
   .containerProducts{
     margin: 30px;
   }
 
+/* Product list */
   li{
     display: grid;
     justify-content: center;
     row-gap: 10px;
   }
 
+  /* Product list */
   ul{
     padding-left: 0px;
   }
 
-
+/* Image products */
   .imgProducts{
     width: 130px;
     height: 130px;
     border-radius: 10px;
   }
 
+  /* Products Grid */
   .productsGrid{
     list-style: none;
     display: grid;
@@ -39,10 +43,12 @@
     justify-content: center;
   }
 
+  /* Content justification */
   main{
     justify-content: center;
   }
 
+  /* Button add cart */
   .btnAgregarCarrito{
     height: 45px;
     font-size: 10px;
@@ -53,6 +59,7 @@
     color: #fff;
   }
 
+  /* Button View */
   .btnView{
     height: 30px;
     font-size: 10px;

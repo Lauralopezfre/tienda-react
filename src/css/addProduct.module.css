@@ -1,13 +1,16 @@
-
+/* Title */
 h3{
   font-size: 15px;
 }
-  .imgProduct{
+
+/* Image Product */
+.imgProduct{
     height: 100px;
     width: 100px;  
   }
 
-  .product_item{
+/* Product container */
+.product_item{
     display: grid;
     grid-template-columns: 50% 50%;
   }

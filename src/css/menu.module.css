@@ -1,7 +1,9 @@
+/* Menu */
 .menu{
     width: 100%;
 }
 
+/* Menu container */
 .menuContenido{
     align-items: center;
     display: flex;
@@ -16,17 +18,20 @@
     background-color: #8a0a0a;
 }
 
+/* Title */
 .title{
     color: #fff;
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Navegation */
 a {
     text-decoration: none;
     color: #fff;
 }
 
+/* Navegation */
 .items{
     display: flex;
     gap: 20px;

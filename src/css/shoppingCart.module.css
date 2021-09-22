@@ -1,3 +1,4 @@
+/* Shopping cart container */
 .shoppingCart{
     -webkit-box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
     -moz-box-shadow: 10px 15px 49px -16px rgba(0,0,0,0.58);
@@ -9,23 +10,27 @@
     padding: 15px;
   }
 
+  /* Pass the cart container underneath the products */
   @media (max-width: 1010px) {
     .shoppingCart{
       margin-left: 25px;
     }
   }
 
+  /* Title */
   .title{
     font-size: 10px;
     text-align: center;
   }
   
+  /* Shopping footer */
   .shopping_footer{
     display: grid;
     grid-template-columns: 50% 50%;
     vertical-align: center;
   }
   
+  /* Button confirm */
   .btnConfirm{
     height: 25px;
     width: 125px;
@@ -38,10 +43,12 @@
     margin: auto 0;
   }
 
+  /* Total products */
   .total{
     text-align: center;
   }
 
+  /* Image container */
   .content_img{
     text-align: center;
   }
