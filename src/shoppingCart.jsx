@@ -1,8 +1,10 @@
 
 import styles from "./css/shoppingCart.module.css";
 import { AddProduct } from "./addProduct";
+import { useState } from "react";
 
 export function ShoppingCart() {
+
     return <div className={styles.shoppingCart}>
         <div className={styles.title}><h1>Carrito de compras</h1></div>
         <div className={styles.content}>
