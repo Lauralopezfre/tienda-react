@@ -1,6 +1,5 @@
 import products from "../productos.json";
 import styles from "../css/products.module.css";
-import { View } from "./viewProduct";
 
 /**
  * Method showing products
@@ -38,7 +37,4 @@ export function ShowProductos() {
  */
 function addProductCart(event){
     console.log("Exito boton")
-    return (
-        <View/>
-    )
 }

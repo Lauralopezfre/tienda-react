@@ -1,7 +1,6 @@
 
 import styles from "../css/shoppingCart.module.css";
 import { AddProduct } from "./addProduct";
-import { useState } from "react";
 
 /**
  * Method that realizes the shopping cart structure.
