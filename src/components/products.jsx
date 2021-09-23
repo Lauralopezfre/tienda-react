@@ -5,7 +5,7 @@ import styles from "../css/products.module.css";
  * Method showing products
  * @returns Struture HTML
  */
-export function ShowProductos() {
+export function ShowProductos({onAdd}) {
     return <div className={styles.containerProducts}>
             {/* Products container */}
 
@@ -22,7 +22,7 @@ export function ShowProductos() {
                             <li>${product.price}</li>
 
                             {/* Buttons for each product */}
-                            <button className={styles.btnAgregarCarrito} type="button" onClick={addProductCart}>Agregar al carrito</button>
+                            <button className={styles.btnAgregarCarrito} type="button" onClick={()=>onAdd(product)}>Agregar al carrito</button>
                             <button className={styles.btnView} type="button">Vista</button>
                         </li>
                     ))}
